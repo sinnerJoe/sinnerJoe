@@ -5,7 +5,7 @@
 because it's one of my childhood dreams ⭐.
 - 💞️ I’m looking to collaborate on interesting projects that spark my interest. I'd like to do something lower level because I don't get to write 
 system software on my job as a web developer :)
-- 📫 Reach me via email on ianknote@protonmail.com or via [linkedin](https://www.linkedin.com/in/radu-cebotari-30763a120/)
+- 📫 You can reach to me via email on ianknote@protonmail.com or via [linkedin](https://www.linkedin.com/in/radu-cebotari-30763a120/)
 
 <!---
 sinnerJoe/sinnerJoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
